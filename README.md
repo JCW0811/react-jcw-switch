@@ -14,8 +14,8 @@
 `   import Switch,{Case,Default} from 'react-jcw-switch'`
 
 ## Example
-...
 
+```
 <Switch value=''>
   <Case value=''>
     ...
