@@ -1,17 +1,15 @@
 {
-  "name": "sfetch",
-  "version": "1.0.1",
-  "description": "fetch package",
+  "name": "react-jcw-switch",
+  "version": "0.1.1",
+  "description": "Switch component for React",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "url": "https://github.com/JCW0811/sfetch.git"
+    "url": "https://github.com/JCW0811/react-jcw-switch.git"
   },
   "author": "jichuangwei",
-  "license": "ISC",
-  "dependencies": {
-    "user": "0.0.0"
-  }
+  "email" : "2323176669@qq.com",
+  "license": "ISC"
 }
