@@ -1,4 +1,4 @@
-**react-jcw-switch** 
+**react-switch** 
 
 - Switch parameters:
 - get value
