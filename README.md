@@ -9,9 +9,9 @@
 
 ## Usage
 
-`    npm install react-jcw-switch`
+`    npm install react-switch`
 
-`   import Switch,{Case,Default} from 'react-jcw-switch'`
+`   import Switch,{Case,Default} from 'react-switch'`
 
 ## Example
 
@@ -29,8 +29,6 @@
 </Switch>
 ```
 
-## License
 
-MIT
 
 
